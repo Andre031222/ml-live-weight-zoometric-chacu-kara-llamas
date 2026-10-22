@@ -1,0 +1,18 @@
+# Private data: never commit
+01_DATA/*
+!01_DATA/README.md
+*.xlsx
+*.xls
+*.csv.gz
+*.pkl
+03_RESULTS/nested_2026-10-20/csv/
+03_RESULTS/nested_2026-10-20/outliers_infold.csv
+03_RESULTS/resultados.rds
+# Environments and caches
+venv/
+.venv/
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
