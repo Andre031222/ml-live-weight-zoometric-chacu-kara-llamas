@@ -159,11 +159,11 @@ Universidad Nacional del Altiplano de Puno (UNA-Puno), Peru.
 | Author | Contribution | ORCID |
 |--------|--------------|-------|
 | **Vladimiro Ibañez Quispe** \* | Conceptualization · investigation · methodology · funding acquisition · project administration · supervision | [0000-0002-0277-4945](https://orcid.org/0000-0002-0277-4945) |
-| **Bernabé Canqui Flores** | Methodology · validation | [0000-0003-2204-0620](https://orcid.org/0000-0003-2204-0620) |
-| **Charles Ignacio Mendoza Mollocondo** | Data curation · validation | [0000-0002-4766-2701](https://orcid.org/0000-0002-4766-2701) |
-| **Roberto Elvis Roque Claros** | Investigation · resources | [0000-0001-6674-4684](https://orcid.org/0000-0001-6674-4684) |
-| **Teresa Paola Alvarez Rozas** | Data curation | [0000-0002-3214-4506](https://orcid.org/0000-0002-3214-4506) |
-| **Alfredo Tumi Figueroa** | Validation | [0000-0003-2970-061X](https://orcid.org/0000-0003-2970-061X) |
+| **Bernabé Canqui Flores** | Conceptualization · methodology · formal analysis · validation | [0000-0003-2204-0620](https://orcid.org/0000-0003-2204-0620) |
+| **Charles Ignacio Mendoza Mollocondo** | Methodology · data curation · validation · visualization | [0000-0002-4766-2701](https://orcid.org/0000-0002-4766-2701) |
+| **Roberto Elvis Roque Claros** | Investigation · resources · data curation · validation | [0000-0001-6674-4684](https://orcid.org/0000-0001-6674-4684) |
+| **Teresa Paola Alvarez Rozas** | Investigation · data curation · formal analysis · validation | [0000-0002-3214-4506](https://orcid.org/0000-0002-3214-4506) |
+| **Alfredo Tumi Figueroa** | Conceptualization · investigation · validation | [0000-0003-2970-061X](https://orcid.org/0000-0003-2970-061X) |
 | **Richar Andre Vilca-Solorzano** | Data curation · formal analysis · software · visualization · writing – original draft | [0009-0003-2385-5263](https://orcid.org/0009-0003-2385-5263) |
 
 <sub>\* Corresponding author — vibanez@unap.edu.pe. All authors contributed to writing – review & editing.</sub>
