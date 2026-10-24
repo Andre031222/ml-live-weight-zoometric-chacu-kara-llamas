@@ -158,12 +158,12 @@ Universidad Nacional del Altiplano de Puno (UNA-Puno), Peru.
 
 | Author | Contribution | ORCID |
 |--------|--------------|-------|
-| **Vladimiro Ibañez Quispe** \* | Conceptualization · investigation · methodology · resources · funding acquisition · project administration · supervision | [0000-0002-0277-4945](https://orcid.org/0000-0002-0277-4945) |
-| **Bernabé Canqui Flores** | Validation | [0000-0003-2204-0620](https://orcid.org/0000-0003-2204-0620) |
-| **Charles Ignacio Mendoza Mollocondo** | Validation | [0000-0002-4766-2701](https://orcid.org/0000-0002-4766-2701) |
-| **Roberto Elvis Roque Claros** | Resources | [0000-0001-6674-4684](https://orcid.org/0000-0001-6674-4684) |
-| **Teresa Paola Alvarez Rozas** | Validation | [0000-0002-3214-4506](https://orcid.org/0000-0002-3214-4506) |
-| **Alfredo Tumi Figueroa** | Validation | [0000-0003-2970-061X](https://orcid.org/0000-0003-2970-061X) |
+| **Vladimiro Ibañez-Quispe** \* | Conceptualization · investigation · methodology · resources · funding acquisition · project administration · supervision | [0000-0002-0277-4945](https://orcid.org/0000-0002-0277-4945) |
+| **Bernabé Canqui-Flores** | Validation | [0000-0003-2204-0620](https://orcid.org/0000-0003-2204-0620) |
+| **Charles Ignacio Mendoza-Mollocondo** | Validation | [0000-0002-4766-2701](https://orcid.org/0000-0002-4766-2701) |
+| **Roberto Elvis Roque-Claros** | Resources | [0000-0001-6674-4684](https://orcid.org/0000-0001-6674-4684) |
+| **Teresa Paola Alvarez-Rozas** | Validation | [0000-0002-3214-4506](https://orcid.org/0000-0002-3214-4506) |
+| **Alfredo Tumi-Figueroa** | Validation | [0000-0003-2970-061X](https://orcid.org/0000-0003-2970-061X) |
 | **Richar Andre Vilca-Solorzano** | Conceptualization · methodology · software · formal analysis · data curation · validation · visualization · writing – original draft | [0009-0003-2385-5263](https://orcid.org/0009-0003-2385-5263) |
 
 <sub>\* Corresponding author — vibanez@unap.edu.pe. All authors contributed to writing – review & editing.</sub>
@@ -176,9 +176,9 @@ The article is being submitted for publication. Until it is published, please ci
 
 ```bibtex
 @software{IbanezQuispe2026LlamaWeight,
-  author = {Iba{\~n}ez Quispe, Vladimiro and Canqui Flores, Bernab{\'e} and
-            Mendoza Mollocondo, Charles Ignacio and Roque Claros, Roberto Elvis and
-            Alvarez Rozas, Teresa Paola and Tumi Figueroa, Alfredo and
+  author = {Iba{\~n}ez-Quispe, Vladimiro and Canqui-Flores, Bernab{\'e} and
+            Mendoza-Mollocondo, Charles Ignacio and Roque-Claros, Roberto Elvis and
+            Alvarez-Rozas, Teresa Paola and Tumi-Figueroa, Alfredo and
             Vilca-Solorzano, Richar Andre},
   title  = {Machine learning prediction of live weight from zoometric measurements
             in Ch'acu and K'ara llamas: code},
