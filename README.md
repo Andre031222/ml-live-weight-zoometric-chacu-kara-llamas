@@ -2,7 +2,8 @@
 
 **Seven machine learning algorithms and four statistical models, nested cross-validation, and a critical look at the correlation filter used in earlier livestock studies — 240 llamas (*Lama glama*) from the Peruvian Altiplano.**
 
-[![Status](https://img.shields.io/badge/Manuscript-ready_for_submission-b45309?style=flat-square)](#citation)
+[![Status](https://img.shields.io/badge/Manuscript-submitted_to_Smart_Agricultural_Technology-7B1FA2?style=flat-square)](#citation)
+[![Journal](https://img.shields.io/badge/Scopus-Q1-2E7D32?style=flat-square)](https://www.scimagojr.com/journalsearch.php?q=21101111783&tip=sid&clean=0)
 [![Code: MIT](https://img.shields.io/badge/Code-MIT-337AB7?style=flat-square)](LICENSE)
 [![Data: on request](https://img.shields.io/badge/Data-available_on_request-6b7280?style=flat-square)](#data--code-availability)
 [![R 4.6](https://img.shields.io/badge/R-4.6-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -172,7 +173,7 @@ Universidad Nacional del Altiplano de Puno (UNA-Puno), Peru.
 
 ## Citation
 
-The article is being submitted for publication. Until it is published, please cite this repository:
+The article was submitted to *Smart Agricultural Technology* (Elsevier) on 24 October 2026 and is under editorial review. Until it is published, please cite this repository:
 
 ```bibtex
 @software{IbanezQuispe2026LlamaWeight,
