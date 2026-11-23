@@ -2,7 +2,7 @@
 
 **Seven machine learning algorithms and four statistical models, nested cross-validation, and a critical look at the correlation filter used in earlier livestock studies — 240 llamas (*Lama glama*) from the Peruvian Altiplano.**
 
-[![Status](https://img.shields.io/badge/Manuscript-submitted_to_Smart_Agricultural_Technology-7B1FA2?style=flat-square)](#citation)
+[![Status](https://img.shields.io/badge/Manuscript-under_review_(Smart_Agricultural_Technology)-F59E0B?style=flat-square)](#citation)
 [![Journal](https://img.shields.io/badge/Scopus-Q1-2E7D32?style=flat-square)](https://www.scimagojr.com/journalsearch.php?q=21101111783&tip=sid&clean=0)
 [![Code: MIT](https://img.shields.io/badge/Code-MIT-337AB7?style=flat-square)](LICENSE)
 [![Data: on request](https://img.shields.io/badge/Data-available_on_request-6b7280?style=flat-square)](#data--code-availability)
@@ -157,23 +157,23 @@ The data path can also be set with the environment variable `LLAMAS_XLSX`. All r
 
 Universidad Nacional del Altiplano de Puno (UNA-Puno), Peru.
 
-| Author | Contribution | ORCID |
-|--------|--------------|-------|
-| **Vladimiro Ibañez-Quispe** \* | Conceptualization · investigation · methodology · resources · funding acquisition · project administration · supervision | [0000-0002-0277-4945](https://orcid.org/0000-0002-0277-4945) |
-| **Bernabé Canqui-Flores** | Validation | [0000-0003-2204-0620](https://orcid.org/0000-0003-2204-0620) |
-| **Charles Ignacio Mendoza-Mollocondo** | Validation | [0000-0002-4766-2701](https://orcid.org/0000-0002-4766-2701) |
-| **Roberto Elvis Roque-Claros** | Resources | [0000-0001-6674-4684](https://orcid.org/0000-0001-6674-4684) |
-| **Teresa Paola Alvarez-Rozas** | Validation | [0000-0002-3214-4506](https://orcid.org/0000-0002-3214-4506) |
-| **Alfredo Tumi-Figueroa** | Validation | [0000-0003-2970-061X](https://orcid.org/0000-0003-2970-061X) |
-| **Richar Andre Vilca-Solorzano** | Conceptualization · methodology · software · formal analysis · data curation · validation · visualization · writing – original draft | [0009-0003-2385-5263](https://orcid.org/0009-0003-2385-5263) |
+| Author | ORCID |
+|--------|-------|
+| **Vladimiro Ibañez-Quispe** \* | [0000-0002-0277-4945](https://orcid.org/0000-0002-0277-4945) |
+| **Bernabé Canqui-Flores** | [0000-0003-2204-0620](https://orcid.org/0000-0003-2204-0620) |
+| **Charles Ignacio Mendoza-Mollocondo** | [0000-0002-4766-2701](https://orcid.org/0000-0002-4766-2701) |
+| **Roberto Elvis Roque-Claros** | [0000-0001-6674-4684](https://orcid.org/0000-0001-6674-4684) |
+| **Teresa Paola Alvarez-Rozas** | [0000-0002-3214-4506](https://orcid.org/0000-0002-3214-4506) |
+| **Alfredo Tumi-Figueroa** | [0000-0003-2970-061X](https://orcid.org/0000-0003-2970-061X) |
+| **Richar Andre Vilca-Solorzano** | [0009-0003-2385-5263](https://orcid.org/0009-0003-2385-5263) |
 
-<sub>\* Corresponding author: V. Ibañez-Quispe. All authors contributed to writing – review & editing.</sub>
+<sub>\* Corresponding author: V. Ibañez-Quispe.</sub>
 
 ---
 
 ## Citation
 
-The article was submitted to *Smart Agricultural Technology* (Elsevier) on 24 October 2026 and is under editorial review. Until it is published, please cite this repository:
+The article was submitted to *Smart Agricultural Technology* (Elsevier) on 24 October 2026 and is under review. Until it is published, please cite this repository:
 
 ```bibtex
 @software{IbanezQuispe2026LlamaWeight,
