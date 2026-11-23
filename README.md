@@ -167,7 +167,7 @@ Universidad Nacional del Altiplano de Puno (UNA-Puno), Peru.
 | **Alfredo Tumi-Figueroa** | Validation | [0000-0003-2970-061X](https://orcid.org/0000-0003-2970-061X) |
 | **Richar Andre Vilca-Solorzano** | Conceptualization · methodology · software · formal analysis · data curation · validation · visualization · writing – original draft | [0009-0003-2385-5263](https://orcid.org/0009-0003-2385-5263) |
 
-<sub>\* Corresponding author — vibanez@unap.edu.pe. All authors contributed to writing – review & editing.</sub>
+<sub>\* Corresponding author: V. Ibañez-Quispe. All authors contributed to writing – review & editing.</sub>
 
 ---
 
